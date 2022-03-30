@@ -33,13 +33,3 @@ a {
   display: inline-flex;
   align-items: center;
 }
-
-.box {
-  height: 184px;
-  width: 627px;
-  background-color: rgba(58, 64, 66, 1);
-  display: inline-block;
-  box-shadow: 10px 10px 00px;
-  margin-top: 116px;
-  margin-left: 61px;
-}

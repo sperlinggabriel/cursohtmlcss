@@ -1,0 +1,11 @@
+.box {
+  background-color: rgba(58, 64, 66, 1);
+  display: inline-block;
+  text-align: center;
+  box-shadow: 10px 10px 00px;
+  margin: 116px 0px 0px 61px;
+  padding: 42px 44px;
+}
+.box h1 {
+  margin-bottom: 28px;
+}
