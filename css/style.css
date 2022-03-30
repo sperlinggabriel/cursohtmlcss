@@ -34,17 +34,12 @@ a {
   align-items: center;
 }
 
-#button1 {
+.box {
+  height: 184px;
+  width: 627px;
+  background-color: rgba(58, 64, 66, 1);
   display: inline-block;
-  background-color: #7c5e99;
-  height: 60px;
-  line-height: 60px;
-  padding: 0px 20px;
-  box-shadow: 5px 5px 0px #000000;
-  margin-right: 0px;
-}
-
-#button1:hover {
-  background-color: rgb(118, 35, 185);
-  transform: scale(1.03);
+  box-shadow: 10px 10px 00px;
+  margin-top: 116px;
+  margin-left: 61px;
 }
