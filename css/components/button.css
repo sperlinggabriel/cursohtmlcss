@@ -5,7 +5,9 @@
   line-height: 60px;
   padding: 0px 20px;
   box-shadow: 5px 5px 0px #000000;
-  margin-right: 0px;
+  text-decoration: none;
+  color: white;
+  font-family: 'Fira Code', sans-serif;
 }
 
 .button:hover {
